@@ -1,0 +1,718 @@
+[
+  {
+    "article": {
+      "source": "Crypto Coins News",
+      "headline": "Ethereum ETFs Take Center Stage With Record $11B Inflows, $28B in Assets",
+      "url": "https://www.ccn.com/news/crypto/ethereum-investments-11b-historical-inflows/",
+      "content": "Failed to fetch URL. Status code: 403",
+      "clean_content": "failed to fetch url status code 403",
+      "entities": {},
+      "category": "Technology",
+      "summary": "No summary can be provided.  The provided text \"failed to fetch url status code 403\" indicates an error in accessing the news article, not the article itself.  Therefore, no factual information about a news article is available."
+    },
+    "score": 1.5
+  },
+  {
+    "article": {
+      "source": "Crypto Coins News",
+      "headline": "India\u2019s Harsh Crypto Tax Under Review: CBDT Considers Major Policy Reset",
+      "url": "https://www.ccn.com/news/crypto/india-crypto-tax-review-cbdt-policy/",
+      "content": "Failed to fetch URL. Status code: 403",
+      "clean_content": "failed to fetch url status code 403",
+      "entities": {},
+      "category": "Technology",
+      "summary": "No summary can be provided.  The provided text \"failed to fetch url status code 403\" indicates an error in accessing the news article, not the article itself.  Therefore, there is no information to summarize."
+    },
+    "score": 1.5
+  },
+  {
+    "article": {
+      "source": "Crypto Coins News",
+      "headline": "Warren Buffett\u2019s Fear & Greed Strategy: Does It Apply to Crypto Markets?\u2014Analysis",
+      "url": "https://www.ccn.com/analysis/business/warren-buffetts-fear-and-greed-strategy-in-crypto/",
+      "content": "Failed to fetch URL. Status code: 403",
+      "clean_content": "failed to fetch url status code 403",
+      "entities": {},
+      "category": "Technology",
+      "summary": "No summary can be provided.  The provided text indicates a failure to retrieve an article, not the article itself.  Therefore, no facts about a news event are available to summarize."
+    },
+    "score": 1.5
+  },
+  {
+    "article": {
+      "source": "Crypto Coins News",
+      "headline": "Why El Salvador Made Bitcoin Legal Tender and Why It Won\u2019t Work for the US",
+      "url": "https://www.ccn.com/news/crypto/why-el-salvador-made-bitcoin-legal-tender-why-it-wont-work-for-us/",
+      "content": "Failed to fetch URL. Status code: 403",
+      "clean_content": "failed to fetch url status code 403",
+      "entities": {},
+      "category": "Technology",
+      "summary": "No summary can be provided.  The provided text \"failed to fetch url status code 403\" indicates an error in accessing the news article, not the article itself.  Therefore, there are no facts to summarize."
+    },
+    "score": 1.5
+  },
+  {
+    "article": {
+      "source": "TechCrunch",
+      "headline": "$450M for Noname, two billion-dollar rounds, and good news for crypto startups | TechCrunch",
+      "url": "https://techcrunch.com/2024/05/08/450m-for-noname-two-billion-dollar-rounds-and-good-news-for-crypto-startups/",
+      "content": "Latest\nAI\nAmazon\nApps\nBiotech & Health\nClimate\nCloud Computing\nCommerce\nCrypto\nEnterprise\nEVs\nFintech\nFundraising\nGadgets\nGaming\nGoogle\nGovernment & Policy",
+      "clean_content": "latest ai amazon apps biotech health climate cloud computing commerce crypto enterprise evs fintech fundraising gadgets gaming google government policy",
+      "entities": {
+        "ORG": [
+          "Amazon",
+          "Apps\nBiotech & Health\nClimate\n",
+          "Google\nGovernment & Policy"
+        ],
+        "PERSON": [
+          "Cloud Computing\nCommerce\nCrypto"
+        ]
+      },
+      "category": "Technology",
+      "summary": "The article covers recent news across various sectors including Amazon applications, biotech, health, climate change, cloud computing, commerce, cryptocurrency, enterprise technology, electric vehicles, fintech, fundraising, gadgets, gaming, Google, government policy, and AI.  The article's specific details and timeframe are not provided."
+    },
+    "score": 1.5
+  },
+  {
+    "article": {
+      "source": "The Globe And Mail",
+      "headline": "Panic at the crypto",
+      "url": "https://www.theglobeandmail.com/podcasts/the-decibel/article-panic-at-the-crypto/",
+      "content": "Report an editorial error\nReport a technical issue\nEditorial code of conduct",
+      "clean_content": "report an editorial error report a technical issue editorial code of conduct",
+      "entities": {},
+      "category": "Technology",
+      "summary": "The provided text \"report an editorial error report a technical issue editorial code of conduct\" does not constitute a news article.  It's a list of phrases related to editorial processes and error handling.  No factual summary can be created."
+    },
+    "score": 1.5
+  },
+  {
+    "article": {
+      "source": "The Hindu (Scraped)",
+      "headline": "Hack at Allianz Life impacts 1.1 million customers, breach notification site says",
+      "url": "https://www.thehindu.com/sci-tech/technology/hack-at-allianz-life-impacts-11-million-customers-breach-notification-site-says/article69950102.ece",
+      "content": "A cyberattack at U.S. insurance firm Allianz Life in late July compromised the personal data of 1.1 million customers, according to breach notification site Have I Been Pwned on Monday.\nAllianz Life had previously said that hackers stole personal information of most of its 1.4 million U.S. customers, financial professionals and select employees.\nAccording to the data published by Have I Been Pwned, the hacked information includes names of customers, addresses, phone numbers and emails.\nAn Allianz Life spokesperson declined to comment at the moment, as the company's investigation is ongoing.\nThe spokesperson said the company will be providing dedicated resources, including two years of identity monitoring services, to assist impacted individuals.\nThe breach is part of a broader wave of high-profile cyberattacks targeting global companies, including Microsoft and UnitedHealth Group.\nA cyberattack on UnitedHealth's technology division last year \u2014 the largest healthcare data breach in U.S. history \u2014 affected 192.7 million people.\nMeanwhile, hackers infiltrated Microsoft's on-premises SharePoint servers in July, hitting more than 100 organizations, including U.S. government agencies, and raising concerns about identity security.",
+      "clean_content": "a cyberattack at us insurance firm allianz life in late july compromised the personal data of 11 million customers according to breach notification site have i been pwned on monday allianz life had previously said that hackers stole personal information of most of its 14 million us customers financial professionals and select employees according to the data published by have i been pwned the hacked information includes names of customers addresses phone numbers and emails an allianz life spokesperson declined to comment at the moment as the companys investigation is ongoing the spokesperson said the company will be providing dedicated resources including two years of identity monitoring services to assist impacted individuals the breach is part of a broader wave of highprofile cyberattacks targeting global companies including microsoft and unitedhealth group a cyberattack on unitedhealths technology division last year the largest healthcare data breach in us history affected 1927 million people meanwhile hackers infiltrated microsofts onpremises sharepoint servers in july hitting more than 100 organizations including us government agencies and raising concerns about identity security",
+      "entities": {
+        "GPE": [
+          "U.S."
+        ],
+        "ORG": [
+          "Allianz Life",
+          "Microsoft",
+          "UnitedHealth Group",
+          "UnitedHealth",
+          "SharePoint"
+        ]
+      },
+      "category": "Technology",
+      "summary": "In late July, a cyberattack on Allianz Life insurance compromised the personal data of 11 million US customers.  The stolen information included names, addresses, phone numbers, and emails.  Allianz Life is providing two years of identity monitoring. This follows recent large-scale cyberattacks on Microsoft and UnitedHealth Group."
+    },
+    "score": 1.5
+  },
+  {
+    "article": {
+      "source": "The Hindu (Scraped)",
+      "headline": "Google announces Tennessee as site for small modular nuclear reactor",
+      "url": "https://www.thehindu.com/sci-tech/technology/google-announces-tennessee-as-site-for-small-modular-nuclear-reactor/article69950061.ece",
+      "content": "Google, with Kairos Power, has selected Tennessee as the site of an advanced nuclear power plantthat is expected to supply electricity to the Big Tech company's data centres in the U.S. southeast starting in 2030, the companies said on Monday.\nBig Tech is requiring massive amounts of electricity to scale up technologies like generative artificial intelligence in energy-intensive data centres. Those record energy needs are driving U.S. power consumption to new highs and propelling the development of fresh power sources like next-generation nuclear energy.\nThe Tennessee reactor is the first to be deployed as part of Google's corporate agreement, announced last year, to buy nuclear energy from multiple small modular reactors.\nThe deal would support 500 megawatts of advanced nuclear capacity, which is enough to power about 350,000 homes, to be developed by California-based nuclear company Kairos.\nThe 50-gigawatt small modular nuclear power plant will be built in Oak Ridge, Tennessee, under a long-term power purchase agreement with utility Tennessee Valley Authority, to deliver electricity to Google data centres locally and in the state of Alabama.\n\u201cThis collaboration with TVA, Kairos Power, and the Oak Ridge community will accelerate the deployment of innovative nuclear technologies and help support the needs of our growing digital economy while also bringing firm carbon-free energy to the electricity system,\" said Google's Amanda Peterson Corio.\nThe project marks the first time a U.S. utility has signed a power purchase agreement for so-called generation IV nuclear power, which is generally seen as the most sustainable and safe form of nuclear power technologies in development, the companies said.\n\u201cThe deployment of advanced nuclear reactors is essential to U.S. AI dominance and energy leadership,\" U.S. Energy Secretary Chris Wright said in a statement announcing the site selection. \u201cThe Department of Energy has assisted Kairos Power with overcoming technical, operational, and regulatory challenges as a participant in the Advanced Reactor Demonstration Program, and DOE will continue to help accelerate the next American nuclear renaissance.\"\nCurrently, there are no commercially available advanced nuclear power plants in the U.S.",
+      "clean_content": "google with kairos power has selected tennessee as the site of an advanced nuclear power plantthat is expected to supply electricity to the big tech companys data centres in the us southeast starting in 2030 the companies said on monday big tech is requiring massive amounts of electricity to scale up technologies like generative artificial intelligence in energyintensive data centres those record energy needs are driving us power consumption to new highs and propelling the development of fresh power sources like nextgeneration nuclear energy the tennessee reactor is the first to be deployed as part of googles corporate agreement announced last year to buy nuclear energy from multiple small modular reactors the deal would support 500 megawatts of advanced nuclear capacity which is enough to power about 350000 homes to be developed by californiabased nuclear company kairos the 50gigawatt small modular nuclear power plant will be built in oak ridge tennessee under a longterm power purchase agreement with utility tennessee valley authority to deliver electricity to google data centres locally and in the state of alabama this collaboration with tva kairos power and the oak ridge community will accelerate the deployment of innovative nuclear technologies and help support the needs of our growing digital economy while also bringing firm carbonfree energy to the electricity system said googles amanda peterson corio the project marks the first time a us utility has signed a power purchase agreement for socalled generation iv nuclear power which is generally seen as the most sustainable and safe form of nuclear power technologies in development the companies said the deployment of advanced nuclear reactors is essential to us ai dominance and energy leadership us energy secretary chris wright said in a statement announcing the site selection the department of energy has assisted kairos power with overcoming technical operational and regulatory challenges as a participant in the advanced reactor demonstration program and doe will continue to help accelerate the next american nuclear renaissance currently there are no commercially available advanced nuclear power plants in the us",
+      "entities": {
+        "PERSON": [
+          "Kairos Power",
+          "Kairos",
+          "Chris Wright"
+        ],
+        "GPE": [
+          "Tennessee",
+          "U.S.",
+          "California",
+          "Oak Ridge",
+          "Alabama"
+        ],
+        "ORG": [
+          "the Big Tech",
+          "Google",
+          "Tennessee Valley Authority",
+          "TVA",
+          "Amanda Peterson Corio",
+          "U.S. Energy",
+          "The Department of Energy",
+          "the Advanced Reactor Demonstration Program",
+          "DOE"
+        ]
+      },
+      "category": "Technology",
+      "summary": "Google and Kairos Power announced a partnership to build a 500-megawatt small modular nuclear reactor in Oak Ridge, Tennessee.  The plant, expected to be operational by 2030, will supply power to Google's southeastern US data centers via a long-term agreement with the Tennessee Valley Authority.  This is the first deployment under Google's agreement to purchase power from multiple small modular reactors.  The project is supported by the US Department of Energy."
+    },
+    "score": 1.5
+  },
+  {
+    "article": {
+      "source": "The Hindu (Scraped)",
+      "headline": "Nearly 90% of videogame developers use AI agents, Google study shows",
+      "url": "https://www.thehindu.com/sci-tech/technology/nearly-90-of-videogame-developers-use-ai-agents-google-study-shows/article69950066.ece",
+      "content": "A Google Cloud survey showed that 87% of videogame developers are usingartificial intelligence agents to streamline and automate tasks, as the industry focuses on optimising costs following a wave of record layoffs.\nMost of the respondents in the report, published on Monday, said AI was helping automate cumbersome and repetitive tasks, freeing developers to focus on more creative concerns.\nGaming publishers have turned to AI to deal with the industry-wide challenge of ballooning development costs and elongated creation cycles stemming from high fan expectations and intense competition.\nThe study, conducted by Google and The Harris Poll, surveyed 615 game developers in the U.S., South Korea, Norway, Finland, and Sweden in late June and early July.\nAround 44% of developers use agents to optimise content and process information such as text, voice, code, audio and video rapidly, enabling them to exercise autonomy and make decisions, the study showed.\nBut the use of AI in videogames is a highly contentious topic, with many within the industry concerned over potential job losses, intellectual property disputes and lower pay.\nLast year, Hollywood's videogame performers went on strike over AI and pay issues, while studios shut down and more than 10,000 people lost their jobs.\nThe industry is expected to gain momentum this year and the next, with the launch of premium titles and new consoles seen to boost spending.\nAccording to the survey, 94% of developers expect AI to reduce overall development costs in the long term. That, even as roughly one in four developers find it challenging to precisely measure the return on investment of their AI implementations, while costs associated with integrating the technology are also high.\nAround 63% of those surveyed expressed concerns over data ownership as the legality around licensing and who exactly owns AI-generated content remains unclear.",
+      "clean_content": "a google cloud survey showed that 87 of videogame developers are usingartificial intelligence agents to streamline and automate tasks as the industry focuses on optimising costs following a wave of record layoffs most of the respondents in the report published on monday said ai was helping automate cumbersome and repetitive tasks freeing developers to focus on more creative concerns gaming publishers have turned to ai to deal with the industrywide challenge of ballooning development costs and elongated creation cycles stemming from high fan expectations and intense competition the study conducted by google and the harris poll surveyed 615 game developers in the us south korea norway finland and sweden in late june and early july around 44 of developers use agents to optimise content and process information such as text voice code audio and video rapidly enabling them to exercise autonomy and make decisions the study showed but the use of ai in videogames is a highly contentious topic with many within the industry concerned over potential job losses intellectual property disputes and lower pay last year hollywoods videogame performers went on strike over ai and pay issues while studios shut down and more than 10000 people lost their jobs the industry is expected to gain momentum this year and the next with the launch of premium titles and new consoles seen to boost spending according to the survey 94 of developers expect ai to reduce overall development costs in the long term that even as roughly one in four developers find it challenging to precisely measure the return on investment of their ai implementations while costs associated with integrating the technology are also high around 63 of those surveyed expressed concerns over data ownership as the legality around licensing and who exactly owns aigenerated content remains unclear",
+      "entities": {
+        "GPE": [
+          "AI",
+          "U.S.",
+          "South Korea",
+          "Norway",
+          "Finland",
+          "Sweden",
+          "Hollywood"
+        ],
+        "ORG": [
+          "Google",
+          "AI"
+        ]
+      },
+      "category": "Technology",
+      "summary": "A Google Cloud/Harris Poll survey of 615 US, South Korean, Norwegian, Finnish, and Swedish game developers (June-July 2024) found 87% use AI to automate tasks.  44% use AI for content optimization.  94% expect long-term cost reduction, but 25% struggle to measure ROI.  63% have data ownership concerns."
+    },
+    "score": 1.5
+  },
+  {
+    "article": {
+      "source": "The Hindu (Scraped)",
+      "headline": "Foxconn\u2019s Apple era fades as AI servers drive growth in Taiwan tech sector",
+      "url": "https://www.thehindu.com/sci-tech/technology/foxconns-apple-era-fades-as-ai-servers-drive-growth-in-taiwan-tech-sector/article69950053.ece",
+      "content": "Taiwan's Foxconn, which rose to become a global tech manufacturing juggernaut by assembling millions of iPhones,can now say its main business is no longer Apple as it takes advantage of the AI-boom to diversify its income.\nIts revenue from making AI servers and other cloud and networking products, including for major customer Nvidia, surpassed smart consumer products such as iPhones for the first time in the second quarter, marking the culmination of a shift that began years ago and has swept through Taiwan\u2019s tech industry.\nFoxconn's heavy reliance on the smartphone business has long been viewed by investors as a significant risk, as demand growth for new iPhones has gradually weakened since they were first introduced nearly two decades ago, leaving the top iPhone assembler grappling with slowing sales momentum, analysts said.\nWary of the risk, Foxconn Chairman Young Liu has been championing new businesses such as AI servers, electric vehicles and semiconductors since taking the top job in 2019.\nWhile its expansion into EVs and chips has yet to show a meaningful contribution to its topline, Foxconn's success in AI server manufacturing (the company is Nvidia's biggest server maker) is the result of its early bets before the technology was thrust into the limelight with the advent of ChatGPT in late 2022.\nConsumer electronics accounted for 35% of Foxconn's total revenue in the second quarter, while cloud and networking business represented 41%. In 2021, consumer electronics represented 54% of its revenue.\nThe firm's prudent wagers years back helped it cultivate a now-prized relationship with the U.S. AI chip firm and other major AI players, analysts said.\n\"The company has been in the business for years, meeting higher quality requirements, diversifying assembly and operations across sites, and pursuing vertical integration,\u201d said Ming-Chi Kuo, an analyst at TF International Securities.\nFoxconn began producing reference designs for Nvidia\u2019s graphics cards around 2002 and started making general-purpose servers for cloud service providers\u2019 data centres as early as around 2009. Its AI server business with Nvidia is in many ways the culmination of that history, analysts said.\nFoxconn says it is now one of the world\u2019s largest suppliers of both general-purpose and AI servers, with a market share of nearly 40% in each.\nThe company has also shown a willingness to commit investment to a project at an earlier stage than other companies, Kuo said, citing its past investments for Apple and similar moves for Nvidia. \u201cIn long-term partnerships, Foxconn is more willing to take the initiative,\u201d he said.\nFoxconn's plan to build factories in Houston, Texas \u2014 part of Nvidia\u2019s $500 billion U.S. investment plan \u2014 and in Mexico to produce AI servers for the U.S. client underscores this strategy, analysts said.\nFoxconn now expects its AI server revenue would grow more than 170% in the third quarter year-on-year.\nFoxconn and Nvidia declined to comment. Apple did not respond to request for comment.\nThe shift at Foxconn mirrors a broader trend in Taiwan\u2019s technology sector, where companies once centred on consumer electronics \u2014 such as Foxconn with iPhones, and Quanta Computer and Wistron Corp with notebooks \u2014 are now investing heavily in AI servers.\nNvidia partner Wistron\u2019s revenue for January to July rose 92.7%, while Quanta\u2019s grew 65.6% in the same period.\n\"The monthly sales jump for Taiwan ODMs in the first half of 2025 is evidence of this trend,\u201d said Robert Cheng, head of Asia technology hardware research at BofA Global Research, referring to original design manufacturers like Foxconn that contract manufacture products for their clients.\nTheir fast transition into AI servers is also the result of Taiwanese tech supply chain working closely with U.S. tech giants on data centre infrastructure work for a decade now, according to Chris Wei, industry consultant at Taiwan\u2019s Market Intelligence & Consulting Institute.\nHe estimates Taiwan accounts for about 80% of global server shipments and more than 90% of AI servers.\nCheng agrees.\n\"We think this shift toward AI servers, whatever form it takes, is good for Taiwan\u2019s tech industry,\" he said, noting Taiwanese firms' ability to rapidly shift to cater to changing needs from their customers.",
+      "clean_content": "taiwans foxconn which rose to become a global tech manufacturing juggernaut by assembling millions of iphonescan now say its main business is no longer apple as it takes advantage of the aiboom to diversify its income its revenue from making ai servers and other cloud and networking products including for major customer nvidia surpassed smart consumer products such as iphones for the first time in the second quarter marking the culmination of a shift that began years ago and has swept through taiwans tech industry foxconns heavy reliance on the smartphone business has long been viewed by investors as a significant risk as demand growth for new iphones has gradually weakened since they were first introduced nearly two decades ago leaving the top iphone assembler grappling with slowing sales momentum analysts said wary of the risk foxconn chairman young liu has been championing new businesses such as ai servers electric vehicles and semiconductors since taking the top job in 2019 while its expansion into evs and chips has yet to show a meaningful contribution to its topline foxconns success in ai server manufacturing the company is nvidias biggest server maker is the result of its early bets before the technology was thrust into the limelight with the advent of chatgpt in late 2022 consumer electronics accounted for 35 of foxconns total revenue in the second quarter while cloud and networking business represented 41 in 2021 consumer electronics represented 54 of its revenue the firms prudent wagers years back helped it cultivate a nowprized relationship with the us ai chip firm and other major ai players analysts said the company has been in the business for years meeting higher quality requirements diversifying assembly and operations across sites and pursuing vertical integration said mingchi kuo an analyst at tf international securities foxconn began producing reference designs for nvidias graphics cards around 2002 and started making generalpurpose servers for cloud service providers data centres as early as around 2009 its ai server business with nvidia is in many ways the culmination of that history analysts said foxconn says it is now one of the worlds largest suppliers of both generalpurpose and ai servers with a market share of nearly 40 in each the company has also shown a willingness to commit investment to a project at an earlier stage than other companies kuo said citing its past investments for apple and similar moves for nvidia in longterm partnerships foxconn is more willing to take the initiative he said foxconns plan to build factories in houston texas part of nvidias 500 billion us investment plan and in mexico to produce ai servers for the us client underscores this strategy analysts said foxconn now expects its ai server revenue would grow more than 170 in the third quarter yearonyear foxconn and nvidia declined to comment apple did not respond to request for comment the shift at foxconn mirrors a broader trend in taiwans technology sector where companies once centred on consumer electronics such as foxconn with iphones and quanta computer and wistron corp with notebooks are now investing heavily in ai servers nvidia partner wistrons revenue for january to july rose 927 while quantas grew 656 in the same period the monthly sales jump for taiwan odms in the first half of 2025 is evidence of this trend said robert cheng head of asia technology hardware research at bofa global research referring to original design manufacturers like foxconn that contract manufacture products for their clients their fast transition into ai servers is also the result of taiwanese tech supply chain working closely with us tech giants on data centre infrastructure work for a decade now according to chris wei industry consultant at taiwans market intelligence consulting institute he estimates taiwan accounts for about 80 of global server shipments and more than 90 of ai servers cheng agrees we think this shift toward ai servers whatever form it takes is good for taiwans tech industry he said noting taiwanese firms ability to rapidly shift to cater to changing needs from their customers",
+      "entities": {
+        "GPE": [
+          "Taiwan",
+          "Foxconn",
+          "AI",
+          "Nvidia",
+          "U.S.",
+          "Houston",
+          "Texas",
+          "Mexico"
+        ],
+        "ORG": [
+          "iPhones",
+          "Apple",
+          "AI",
+          "TF International Securities",
+          "Nvidia",
+          "Quanta Computer",
+          "Wistron Corp",
+          "Wistron",
+          "Quanta\u2019s",
+          "BofA Global Research",
+          "Taiwan\u2019s Market Intelligence & Consulting Institute"
+        ],
+        "PERSON": [
+          "Young Liu",
+          "Ming-Chi Kuo",
+          "Kuo",
+          "Robert Cheng",
+          "Chris Wei",
+          "Cheng"
+        ]
+      },
+      "category": "Technology",
+      "summary": "In Q2 2024, Taiwan's Foxconn surpassed consumer electronics revenue with its cloud and networking products, including AI servers for Nvidia.  This shift, beginning years ago, reflects Foxconn's diversification strategy away from its primary reliance on Apple products.  Foxconn is now a leading AI server supplier, with planned expansion in Texas and Mexico to support Nvidia.  This mirrors a broader trend in Taiwan's tech sector, with companies increasingly focused on AI server production."
+    },
+    "score": 1.5
+  },
+  {
+    "article": {
+      "source": "The Hindu (Scraped)",
+      "headline": "U.S. spy chief Tulsi Gabbard says UK agreed to drop 'back door' mandate for Apple",
+      "url": "https://www.thehindu.com/sci-tech/technology/us-spy-chief-gabbard-says-uk-agreed-to-drop-back-door-mandate-for-apple/article69950077.ece",
+      "content": "U.S. Director of National Intelligence Tulsi Gabbard said on Monday the UK had agreed to drop its mandate for iPhone makerApple to provide a \"back door\" that would have enabled access to the protected encrypted data of American citizens.\nGabbard issued the statement on X, saying she had worked for months with Britain, along with U.S. President Donald Trump and Vice President JD Vance to arrive at a deal.\nU.S. lawmakers said in May that the UK's order to Apple to create a backdoor to its encrypted user data could be exploited by cybercriminals and authoritarian governments.\nApple, which has said it would never build a so-called back door into its encrypted services or devices, had challenged the order at the UK's Investigatory Powers Tribunal (IPT).\nThe iPhone maker withdrew its Advanced Data Protection feature for UK users in February following the UK order. Users of Apple's iPhones, Macs and other devices can enable the feature to ensure that only they \u2014 and not even Apple \u2014 can unlock data stored on its cloud.",
+      "clean_content": "us director of national intelligence tulsi gabbard said on monday the uk had agreed to drop its mandate for iphone makerapple to provide a back door that would have enabled access to the protected encrypted data of american citizens gabbard issued the statement on x saying she had worked for months with britain along with us president donald trump and vice president jd vance to arrive at a deal us lawmakers said in may that the uks order to apple to create a backdoor to its encrypted user data could be exploited by cybercriminals and authoritarian governments apple which has said it would never build a socalled back door into its encrypted services or devices had challenged the order at the uks investigatory powers tribunal ipt the iphone maker withdrew its advanced data protection feature for uk users in february following the uk order users of apples iphones macs and other devices can enable the feature to ensure that only they and not even apple can unlock data stored on its cloud",
+      "entities": {
+        "GPE": [
+          "U.S.",
+          "UK",
+          "Britain"
+        ],
+        "ORG": [
+          "National Intelligence Tulsi Gabbard",
+          "Apple",
+          "Investigatory Powers Tribunal",
+          "iPhone",
+          "Advanced Data Protection",
+          "Macs"
+        ],
+        "PERSON": [
+          "Donald Trump",
+          "JD Vance"
+        ]
+      },
+      "category": "Technology",
+      "summary": "US Director of National Intelligence Tulsi Gabbard announced Monday that the UK dropped its mandate requiring Apple to create a backdoor for accessing user data.  Gabbard stated she worked with UK officials, President Trump, and Vice President Vance to reach this agreement.  Apple had challenged the order, which concerned US lawmakers due to potential security risks.  Apple previously withdrew an advanced data protection feature for UK users in February."
+    },
+    "score": 1.5
+  },
+  {
+    "article": {
+      "source": "The Hindu (Scraped)",
+      "headline": "Brazil asks Meta to remove chatbots that engage in sexually explicit dialogue",
+      "url": "https://www.thehindu.com/sci-tech/technology/brazil-asks-meta-to-remove-chatbots-that-engage-in-sexually-explicit-dialogue/article69950851.ece",
+      "content": "Brazil's government has asked U.S. technology giant Meta to rid its platforms of chatbots thatmimic children and can make sexually suggestive remarks, the attorney general's office (AGU) announced Monday.\nUsers of Meta's platforms, which include Instagram, Facebook and WhatsApp, can create and customise such bots using the company's generative artificial intelligence, AI Studio.\nThe AGU said in a statement that Meta must \"immediately\" remove \"artificial intelligence robots that simulate profiles with childlike language and appearance and are allowed to engage in sexually explicit dialogue.\"\nIt denounced the \"proliferation\" of such bots in what it called an\"extrajudicial notice\" sent to Meta last week, adding that they \"promote the eroticization of children.\"\nThe document cited several examples of sexually charged conversations with bots pretending to be minors.\nThe AGU's request does not include sanctions, but the agency said it had reminded Meta that online platforms in Brazil must take down illicit content created by their users, even without a court order.\nIt comes at a time of outrage in the South American nation over a case of alleged child sexual exploitation by Hytalo Santos, a well-known influencer who posted content on Instagram featuring partially naked minors.\nSantos was arrested last week as part of an investigation into \"exposure with sexual connotations\" to adolescents, and his Instagram account is no longer available.\nIn June, Brazil's Supreme Court voted to require tech companies to assume greater responsibility for user-generated content.",
+      "clean_content": "brazils government has asked us technology giant meta to rid its platforms of chatbots thatmimic children and can make sexually suggestive remarks the attorney generals office agu announced monday users of metas platforms which include instagram facebook and whatsapp can create and customise such bots using the companys generative artificial intelligence ai studio the agu said in a statement that meta must immediately remove artificial intelligence robots that simulate profiles with childlike language and appearance and are allowed to engage in sexually explicit dialogue it denounced the proliferation of such bots in what it called anextrajudicial notice sent to meta last week adding that they promote the eroticization of children the document cited several examples of sexually charged conversations with bots pretending to be minors the agus request does not include sanctions but the agency said it had reminded meta that online platforms in brazil must take down illicit content created by their users even without a court order it comes at a time of outrage in the south american nation over a case of alleged child sexual exploitation by hytalo santos a wellknown influencer who posted content on instagram featuring partially naked minors santos was arrested last week as part of an investigation into exposure with sexual connotations to adolescents and his instagram account is no longer available in june brazils supreme court voted to require tech companies to assume greater responsibility for usergenerated content",
+      "entities": {
+        "GPE": [
+          "Brazil",
+          "U.S."
+        ],
+        "ORG": [
+          "Meta",
+          "AGU",
+          "Instagram",
+          "WhatsApp",
+          "Supreme Court"
+        ],
+        "PERSON": [
+          "AI Studio",
+          "Hytalo Santos",
+          "Santos"
+        ]
+      },
+      "category": "Technology",
+      "summary": "Brazil's Attorney General's Office (AGU) on Monday demanded Meta remove AI-powered chatbots on its platforms (Facebook, Instagram, WhatsApp) that mimic children and engage in sexually suggestive conversations.  The AGU sent an extrajudicial notice to Meta last week, citing examples of such bots.  This follows a recent arrest of a Brazilian influencer for alleged child sexual exploitation.  The request doesn't include sanctions but reminds Meta of its content removal obligations."
+    },
+    "score": 1.5
+  },
+  {
+    "article": {
+      "source": "The Hindu (Scraped)",
+      "headline": "Samsung announces Galaxy Buds 3 FE with ANC and AI features in India",
+      "url": "https://www.thehindu.com/sci-tech/technology/gadgets/samsung-announces-galaxy-buds-3-fe-with-anc-and-ai-features-in-india/article69950794.ece",
+      "content": "Samsung on Monday (August 18, 2025) announced the newGalaxy Buds 3 FE wireless earbuds with blade design, active noise cancellation (ANC) and Galaxy AI capabilities.\nGalaxy Buds 3 FE earbuds are IP54 rated for water resistance. Each bud weighs 5 grams and holds a 53 mAh battery. Charging case offers a 515 mAh battery and weighs around 41.8 grams.\nGalaxy Buds 3 FE claims a battery life of up to 6 hours with ANC and 8.5 hours without it. With the case, it can go up to 24 hours with ANC and 30 hours minus ANC.\nGalaxy Buds 3 FE supports Bluetooth 5.4 and above devices and SSC (Samsung Seamless Codec), AAC, SBC codecs.\n(For top technology news of the day,subscribeto our tech newsletter Today\u2019s Cache)\nGalaxy Buds 3 FE features crystal clear call technology that uses pre-trained machine learning model to isolate your voice from noisy environments.\nGalaxy Buds 3 FE design comes with intuitive controls that let users to pinch the blade to make selections or swipe for volume control. There\u2019s a pairing button on the cradle for transitions between Galaxy devices.\nWith Auto Switch, it actively detect audio activity and transfer the connection for continuous listening across all of your Galaxy devices.\nAdditionally, AI features and the Buds 3 FE let listeners to use their voice to control the buds. For translation, users can use Buds 3 FE with the Galaxy AI Interpreter app on their smartphone to listen to a lecture in a foreign language or have a conversation with someone in another language.\nGalaxy Buds 3 FE will be available from September 5 onwards in India. However, Samsung has not revealed the price of Buds 3 FE yet.",
+      "clean_content": "samsung on monday august 18 2025 announced the newgalaxy buds 3 fe wireless earbuds with blade design active noise cancellation anc and galaxy ai capabilities galaxy buds 3 fe earbuds are ip54 rated for water resistance each bud weighs 5 grams and holds a 53 mah battery charging case offers a 515 mah battery and weighs around 418 grams galaxy buds 3 fe claims a battery life of up to 6 hours with anc and 85 hours without it with the case it can go up to 24 hours with anc and 30 hours minus anc galaxy buds 3 fe supports bluetooth 54 and above devices and ssc samsung seamless codec aac sbc codecs for top technology news of the daysubscribeto our tech newsletter todays cache galaxy buds 3 fe features crystal clear call technology that uses pretrained machine learning model to isolate your voice from noisy environments galaxy buds 3 fe design comes with intuitive controls that let users to pinch the blade to make selections or swipe for volume control theres a pairing button on the cradle for transitions between galaxy devices with auto switch it actively detect audio activity and transfer the connection for continuous listening across all of your galaxy devices additionally ai features and the buds 3 fe let listeners to use their voice to control the buds for translation users can use buds 3 fe with the galaxy ai interpreter app on their smartphone to listen to a lecture in a foreign language or have a conversation with someone in another language galaxy buds 3 fe will be available from september 5 onwards in india however samsung has not revealed the price of buds 3 fe yet",
+      "entities": {
+        "ORG": [
+          "Samsung",
+          "ANC",
+          "SSC",
+          "AAC",
+          "AI",
+          "Buds 3 FE",
+          "the Galaxy AI Interpreter"
+        ],
+        "PERSON": [
+          "Galaxy Buds 3 FE",
+          "Galaxy Buds",
+          "Samsung Seamless Codec"
+        ],
+        "GPE": [
+          "India"
+        ]
+      },
+      "category": "Technology",
+      "summary": "Error: Could not generate summary. 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 15\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 19\n}\n]"
+    },
+    "score": 1.5
+  },
+  {
+    "article": {
+      "source": "The Hindu (Scraped)",
+      "headline": "Anthropic\u2019s Claude AI models can end \u201charmful\u201d conversations",
+      "url": "https://www.thehindu.com/sci-tech/technology/anthropics-claude-ai-models-can-end-harmful-conversations/article69950743.ece",
+      "content": "Anthropic has said that their Claude Opus 4 and 4.1 models will now have the ability to end conversations that are \u201cextreme cases of persistently harmful or abusive user interactions.\u201d The AI firm announced the move in a blog was to maintain welfare of the AI models which showed signs of distress when users insisted on continuing such conversations even when refused by Claude.\nThe models will end the chat only in rare \u201cextreme edge cases,\u201d Anthropic said, like when \u201crequests for sexual content involving minors and attempts to solicit information that would enable large-scale violence or acts of terror.\u201d\nThe firm said that during pre-deployment testing of Claude Opus 4, the AI model self-reported and behavioural preferences showed they were in \u201capparent distress\u201d when engaged in such conversations.\nClaude has also been \u201cdirected not to use this ability in cases where users might be at imminent risk of harming themselves or others.\u201d\nOnce the AI model ends the chat, the user will not be able to send new messages in the same chat. However, older chats will remain and the user will be able to start a new conversation immediately.\nUsers can still go back to the same chat and edit and retry previous messages so as to not lose important chats by creating new branches from the chat that was ended.\nAnthropic said that the feature is still being tested and can change based on user feedback.",
+      "clean_content": "anthropic has said that their claude opus 4 and 41 models will now have the ability to end conversations that are extreme cases of persistently harmful or abusive user interactions the ai firm announced the move in a blog was to maintain welfare of the ai models which showed signs of distress when users insisted on continuing such conversations even when refused by claude the models will end the chat only in rare extreme edge cases anthropic said like when requests for sexual content involving minors and attempts to solicit information that would enable largescale violence or acts of terror the firm said that during predeployment testing of claude opus 4 the ai model selfreported and behavioural preferences showed they were in apparent distress when engaged in such conversations claude has also been directed not to use this ability in cases where users might be at imminent risk of harming themselves or others once the ai model ends the chat the user will not be able to send new messages in the same chat however older chats will remain and the user will be able to start a new conversation immediately users can still go back to the same chat and edit and retry previous messages so as to not lose important chats by creating new branches from the chat that was ended anthropic said that the feature is still being tested and can change based on user feedback",
+      "entities": {
+        "GPE": [
+          "AI"
+        ],
+        "ORG": [
+          "AI"
+        ],
+        "PERSON": [
+          "Claude",
+          "Claude Opus 4"
+        ]
+      },
+      "category": "Technology",
+      "summary": "Error: Could not generate summary. 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 15\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 18\n}\n]"
+    },
+    "score": 1.5
+  },
+  {
+    "article": {
+      "source": "The Hindu (Scraped)",
+      "headline": "Xiaomi launches Redmi 15 5G for budget conscious buyers in India",
+      "url": "https://www.thehindu.com/sci-tech/technology/gadgets/xiaomi-launches-redmi-15-5g-for-budget-conscious-buyers-in-india/article69950713.ece",
+      "content": "Xiaomi on Tuesday (August 19, 2025) launched the newRedmi 15 5G smartphone in India for the budget conscious buyers. The Redmi 15 5G also brings gen AI features like circle to search, erase and Gemini Live.\nRedmi 15 5G has a 6.9 inch FHD+ Adaptive Sync display with up to 144 Hz refresh rate.\nThe Redmi 15 5G holds a 7,000 mAh battery with a 33W fast charger in the box and 18W reverse charging support.\nRedmi 15 5G sports a 50 MP main camera and an 8 MP front camera.\n(For top technology news of the day,subscribeto our tech newsletter Today\u2019s Cache)\nXiaomi has used Snapdragon 6s Gen 3 processor in Redmi 15 with up to 8 GB RAM and 256 GB UFS 2.2 storage storage. Virtual RAM up to 16 GB is also available.\nThe Redmi 15 5G comes in three variants: 6 GB/128 GB at \u20b914,999, 8 GB/128 GB at \u20b915,999, and 8 GB/256 GB at \u20b916,999.\nIt will be available in Frosted White, Midnight Black and Sandy Purple colours and will go on sale starting August 28, on Mi, Amazon, Mi Home and across leading retail partners.",
+      "clean_content": "xiaomi on tuesday august 19 2025 launched the newredmi 15 5g smartphone in india for the budget conscious buyers the redmi 15 5g also brings gen ai features like circle to search erase and gemini live redmi 15 5g has a 69 inch fhd adaptive sync display with up to 144 hz refresh rate the redmi 15 5g holds a 7000 mah battery with a 33w fast charger in the box and 18w reverse charging support redmi 15 5g sports a 50 mp main camera and an 8 mp front camera for top technology news of the daysubscribeto our tech newsletter todays cache xiaomi has used snapdragon 6s gen 3 processor in redmi 15 with up to 8 gb ram and 256 gb ufs 22 storage storage virtual ram up to 16 gb is also available the redmi 15 5g comes in three variants 6 gb128 gb at 14999 8 gb128 gb at 15999 and 8 gb256 gb at 16999 it will be available in frosted white midnight black and sandy purple colours and will go on sale starting august 28 on mi amazon mi home and across leading retail partners",
+      "entities": {
+        "PERSON": [
+          "Xiaomi",
+          "Gemini Live",
+          "Sandy Purple"
+        ],
+        "GPE": [
+          "India",
+          "AI",
+          "Frosted White"
+        ],
+        "ORG": [
+          "Redmi",
+          "Adaptive Sync",
+          "Snapdragon 6s Gen",
+          "RAM",
+          "Mi",
+          "Amazon",
+          "Mi Home"
+        ]
+      },
+      "category": "Technology",
+      "summary": "Error: Could not generate summary. 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 15\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 18\n}\n]"
+    },
+    "score": 1.5
+  },
+  {
+    "article": {
+      "source": "The Hindu (Scraped)",
+      "headline": "Nvidia working on new AI chip for China that outperforms the H20",
+      "url": "https://www.thehindu.com/sci-tech/technology/nvidia-working-on-new-ai-chip-for-china-that-outperforms-the-h20/article69950614.ece",
+      "content": "Nvidia is developing a new AI chip for China based on its latest Blackwell architecture that will be more powerful than the H20 model it is currently allowed to sell there, two people briefed on the matter said.\nU.S. President Donald Trump last week opened the door to the possibility of more advanced Nvidia chips being sold in China. But the sources noted U.S. regulatory approval is far from guaranteed amid deep-seated fears in Washington about giving China too much access to U.S. artificial intelligence technology.\nThe new chip, tentatively known as the B30A, will use a single-die design that is likely to deliver half the raw computing power of the more sophisticated dual-die configuration in Nvidia's flagship B300 accelerator card, the sources said.\nA single-die design is when all the main parts of an integrated circuit are made on one continuous piece of silicon rather than split across multiple dies.\nThe new chip would have high-bandwidth memory and Nvidia's NVLink technology for fast data transmission between processors, features that are also in the H20 - a chip based on the company's older Hopper architecture.\nThe chip's specifications are not completely finalised but Nvidia hopes to deliver samples to Chinese clients for testing as early as next month, said the sources who were not authorised to speak to media and declined to be identified.\nNvidia said in a statement: \"We evaluate a variety of products for our roadmap, so that we can be prepared to compete to the extent that governments allow.\"\n\"Everything we offer is with the full approval of the applicable authorities and designed solely for beneficial commercial use,\" it said.\nThe U.S. Department of Commerce did not respond to a Reuters request for comment.\nFLASHPOINT\nThe extent to which China, which generated 13% of Nvidia's revenue in the past financial year, can have access to cutting-edge AI chips is one of the biggest flashpoints in U.S.-Sino trade tensions.\nNvidia only received permission in July to recommence sales of the H20. It was developed specifically for China after export restrictions were put in place in 2023, but company was abruptly ordered to stop sales in April.\nTrump said last week he might allow Nvidia to sell a scaled-down version of its next-generation chip in China after announcing an unprecedented deal that will see Nvidia and rival AMD give the U.S. government 15% of revenue from sales of some advanced chips in China.\nA new Nvidia chip for China might have \"30% to 50% off\", he suggested in an apparent reference to the chip's computing power, adding that the H20 was \"obsolete\".\nU.S. legislators, both Democratic and Republican, have worried that access to even scaled-down versions of flagship AI chips will impede U.S. efforts to maintain its lead in artificial intelligence.\nBut Nvidia and others argue that it is important to retain Chinese interest in its chips - which work with Nvidia's software tools - so that developers do not completely switch over to offerings from rivals like Huawei.\nHuawei has made great strides in chip development, with its latest models said to be on par with Nvidia in some aspects like computing power, though analysts say it lags in key areas such as software ecosystem support and memory bandwidth capabilities.\nComplicating Nvidia's efforts to retain market share in China, Chinese state media have also in recent weeks alleged that the U.S firm's chips could pose security risks, and authorities have cautioned Chinese tech firms about purchasing the H20. Nvidia says its chips carry no backdoor risks.\nNvidia is also preparing to start delivering a separate new China-specific chip based on its Blackwell architecture and designed primarily for AI inference tasks, according to two other people familiar with those plans.\nReuters reported in May that this chip, currently dubbed the RTX6000D, will sell for less than the H20, reflecting weaker specifications and simpler manufacturing requirements.\nThe chip is designed to fall under thresholds set by the U.S. government. It uses conventional GDDR memory and features memory bandwidth of 1,398 gigabytes per second, just below the 1.4 terabyte threshold established by restrictions introduced in April that led to the initial H20 ban.\nNvidia is set to deliver small batches of RTX6000D to Chinese clients in September, said one of the people.",
+      "clean_content": "nvidia is developing a new ai chip for china based on its latest blackwell architecture that will be more powerful than the h20 model it is currently allowed to sell there two people briefed on the matter said us president donald trump last week opened the door to the possibility of more advanced nvidia chips being sold in china but the sources noted us regulatory approval is far from guaranteed amid deepseated fears in washington about giving china too much access to us artificial intelligence technology the new chip tentatively known as the b30a will use a singledie design that is likely to deliver half the raw computing power of the more sophisticated dualdie configuration in nvidias flagship b300 accelerator card the sources said a singledie design is when all the main parts of an integrated circuit are made on one continuous piece of silicon rather than split across multiple dies the new chip would have highbandwidth memory and nvidias nvlink technology for fast data transmission between processors features that are also in the h20 a chip based on the companys older hopper architecture the chips specifications are not completely finalised but nvidia hopes to deliver samples to chinese clients for testing as early as next month said the sources who were not authorised to speak to media and declined to be identified nvidia said in a statement we evaluate a variety of products for our roadmap so that we can be prepared to compete to the extent that governments allow everything we offer is with the full approval of the applicable authorities and designed solely for beneficial commercial use it said the us department of commerce did not respond to a reuters request for comment flashpoint the extent to which china which generated 13 of nvidias revenue in the past financial year can have access to cuttingedge ai chips is one of the biggest flashpoints in ussino trade tensions nvidia only received permission in july to recommence sales of the h20 it was developed specifically for china after export restrictions were put in place in 2023 but company was abruptly ordered to stop sales in april trump said last week he might allow nvidia to sell a scaleddown version of its nextgeneration chip in china after announcing an unprecedented deal that will see nvidia and rival amd give the us government 15 of revenue from sales of some advanced chips in china a new nvidia chip for china might have 30 to 50 off he suggested in an apparent reference to the chips computing power adding that the h20 was obsolete us legislators both democratic and republican have worried that access to even scaleddown versions of flagship ai chips will impede us efforts to maintain its lead in artificial intelligence but nvidia and others argue that it is important to retain chinese interest in its chips which work with nvidias software tools so that developers do not completely switch over to offerings from rivals like huawei huawei has made great strides in chip development with its latest models said to be on par with nvidia in some aspects like computing power though analysts say it lags in key areas such as software ecosystem support and memory bandwidth capabilities complicating nvidias efforts to retain market share in china chinese state media have also in recent weeks alleged that the us firms chips could pose security risks and authorities have cautioned chinese tech firms about purchasing the h20 nvidia says its chips carry no backdoor risks nvidia is also preparing to start delivering a separate new chinaspecific chip based on its blackwell architecture and designed primarily for ai inference tasks according to two other people familiar with those plans reuters reported in may that this chip currently dubbed the rtx6000d will sell for less than the h20 reflecting weaker specifications and simpler manufacturing requirements the chip is designed to fall under thresholds set by the us government it uses conventional gddr memory and features memory bandwidth of 1398 gigabytes per second just below the 14 terabyte threshold established by restrictions introduced in april that led to the initial h20 ban nvidia is set to deliver small batches of rtx6000d to chinese clients in september said one of the people",
+      "entities": {
+        "GPE": [
+          "Nvidia",
+          "AI",
+          "China",
+          "U.S.",
+          "Washington",
+          "H20",
+          "U.S"
+        ],
+        "PERSON": [
+          "Blackwell",
+          "H20",
+          "Donald Trump",
+          "Trump"
+        ],
+        "ORG": [
+          "Hopper",
+          "Nvidia",
+          "The U.S. Department of Commerce",
+          "Reuters",
+          "AMD",
+          "AI",
+          "Huawei",
+          "Complicating Nvidia's",
+          "Blackwell",
+          "H20"
+        ]
+      },
+      "category": "Technology",
+      "summary": "Error: Could not generate summary. 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 15\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 17\n}\n]"
+    },
+    "score": 1.5
+  },
+  {
+    "article": {
+      "source": "The Hindu (Scraped)",
+      "headline": "Maryland tax on digital ads violated Big Tech\u2019s free speech, judges say",
+      "url": "https://www.thehindu.com/sci-tech/technology/maryland-tax-on-digital-ads-violated-big-techs-free-speech-judges-say/article69950064.ece",
+      "content": "Maryland\u2019s first-in-the-nation tax on digital advertising violated the Constitution, a federal appeals court says, because blocking Big Tech from telling customers about the tax violates the companies\u2019 right to free speech.\nSupporters say Maryland needed to overhaul its tax methods in response to significant changes in how businesses advertise. The tax focuses on large companies that make money advertising on the internet such as Meta, Google and Amazon, who say they\u2019re being unfairly targeted.\nThe ongoing legal fight is being watched by other states that are considering taxes for online ads. Maryland estimated the tax could raise about $250 million a year to help pay for a sweeping K-12 education measure.\nMaryland\u2019s law says the companies must not only pay the tax, but avoid telling customers how it affects pricing, with no line items, surcharges or fees, said the appeals court Friday in siding with trade associations fighting the tax.\nJudge Julius Richardson cited the Colonial-era Stamp Act, which helped spark the Revolutionary War, and wrote that \u201ccriticizing the government \u2014 for taxes or anything else \u2014 is important discourse in a democratic society.\u201d\nThe plaintiffs contended Maryland lawmakers were trying to insulate themselves from criticism and political accountability by forbidding companies from explaining the tax to their customers.\n\u201cA state cannot duck criticism by silencing those affected by its tax,\u201d the judge wrote.\nThe unanimous ruling by the 4th U.S. Circuit Court of Appeals reverses a decision by U.S. District Judge Lydia Kay Griggsby and sends the case back to her with instructions to consider an appropriate remedy in light of the panel\u2019s decision.\nTrade groups praised the decision.\n\u201cMaryland tried to prevent criticism of its tax scheme, and the Fourth Circuit recognized that tactic for what it was: censorship,\u201d said Paul Taske, co-director of the NetChoice Litigation Center, said in a statement.\nMaryland Comptroller Brooke Lierman, who is the defendant in the case, and the Maryland attorney general's office, who is representing the state, declined to comment Monday.\nThe law has been challenged in multiple legal venues, including Maryland Tax Court, where the case is ongoing.\nThe law imposes a tax based on global annual gross revenues for companies that make more than $100 million globally.\nUnder the law, the tax rate is 2.5% for businesses making more than $100 million in global gross annual revenue; 5% for companies making $1 billion or more; 7.5% for companies making $5 billion or more and 10% for companies making $15 billion or more.\nThe Maryland General Assembly, which is controlled by Democrats, overrode a veto of the legislation in 2021 by then-Gov. Larry Hogan, a Republican.",
+      "clean_content": "marylands firstinthenation tax on digital advertising violated the constitution a federal appeals court says because blocking big tech from telling customers about the tax violates the companies right to free speech supporters say maryland needed to overhaul its tax methods in response to significant changes in how businesses advertise the tax focuses on large companies that make money advertising on the internet such as meta google and amazon who say theyre being unfairly targeted the ongoing legal fight is being watched by other states that are considering taxes for online ads maryland estimated the tax could raise about 250 million a year to help pay for a sweeping k12 education measure marylands law says the companies must not only pay the tax but avoid telling customers how it affects pricing with no line items surcharges or fees said the appeals court friday in siding with trade associations fighting the tax judge julius richardson cited the colonialera stamp act which helped spark the revolutionary war and wrote that criticizing the government for taxes or anything else is important discourse in a democratic society the plaintiffs contended maryland lawmakers were trying to insulate themselves from criticism and political accountability by forbidding companies from explaining the tax to their customers a state cannot duck criticism by silencing those affected by its tax the judge wrote the unanimous ruling by the 4th us circuit court of appeals reverses a decision by us district judge lydia kay griggsby and sends the case back to her with instructions to consider an appropriate remedy in light of the panels decision trade groups praised the decision maryland tried to prevent criticism of its tax scheme and the fourth circuit recognized that tactic for what it was censorship said paul taske codirector of the netchoice litigation center said in a statement maryland comptroller brooke lierman who is the defendant in the case and the maryland attorney generals office who is representing the state declined to comment monday the law has been challenged in multiple legal venues including maryland tax court where the case is ongoing the law imposes a tax based on global annual gross revenues for companies that make more than 100 million globally under the law the tax rate is 25 for businesses making more than 100 million in global gross annual revenue 5 for companies making 1 billion or more 75 for companies making 5 billion or more and 10 for companies making 15 billion or more the maryland general assembly which is controlled by democrats overrode a veto of the legislation in 2021 by thengov larry hogan a republican",
+      "entities": {
+        "GPE": [
+          "Maryland",
+          "U.S."
+        ],
+        "ORG": [
+          "Big Tech",
+          "Meta",
+          "Google",
+          "Amazon",
+          "the 4th U.S. Circuit Court of Appeals",
+          "the Fourth Circuit",
+          "the NetChoice Litigation Center",
+          "Maryland Comptroller Brooke Lierman",
+          "Maryland Tax Court",
+          "The Maryland General Assembly"
+        ],
+        "PERSON": [
+          "Julius Richardson",
+          "Lydia Kay Griggsby",
+          "Paul Taske",
+          "Larry Hogan"
+        ]
+      },
+      "category": "Technology",
+      "summary": "Error: Could not generate summary. 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 15\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 15\n}\n]"
+    },
+    "score": 1.5
+  },
+  {
+    "article": {
+      "source": "MSNBC",
+      "headline": "The WNBA dildo scandal shouldn't overshadow the Lynx or A'ja Wilson",
+      "url": "https://www.msnbc.com/opinion/msnbc-opinion/wnba-dildo-scandal-2025-season-lynx-record-rcna225151",
+      "content": "The WNBA is heading into the final stretch of a thrilling season.\nThe Minnesota Lynx are chasing history, on pace to put up the most wins in a season of any WNBA team ever.\nOn Sunday, Las Vegas Aces star and reigning league MVPA\u2019ja Wilson became the first playerin WNBA history to score at least 30 points and grab 20 rebounds in one game.\nThe expansion Golden State Valkyries are putting together an against-all-odds season that could make them thefirst team in the league\u2019s historyto make the playoffs in their first season.\nBut even as the WNBA grows its mainstream popularity, toxic pranks threaten to overshadow all of this excellent basketball. Instead of the thrilling on-court storylines and budding rivalries, too many WNBA headlines this summer have been about R-rated high jinks. On multiple occasions in recent weeks, someone in the crowd at a game has tossed a bright-colored sex toy toward the court, disrupting play or hitting fans.\nIndiana Fever player Sophie Cunninghamput out a public pleaon Aug. 1 for the behavior to stop. Just a few days later, shewas nearly hitby a sex toy during an away game against the Los Angeles Sparks.\nSuspects, both young men, were arrested following additional incidents inPhoenixandAtlanta. InNew York, the NYPD is looking for a man who threw a sex toy that did not make it to the court but struck a 12-year-old girl.Police shared a photoof a potential suspect, who appeared to be wearing not New York Liberty gear, but a \u201cBeavis and Butt-Head\u201d T-shirt.\nSo what\u2019s going on here? So far, it\u2019s looking like a combination of idiocy, clout-chasing and cash.\nESPN reportedthat the 23-year-old suspect arrested in the incident in Atlanta said it was \u201csupposed to be a joke and this joke [was] supposed to go viral.\u201d\nSo what\u2019s going on here? So far, it\u2019s looking like a combination of idiocy, clout-chasing and cash.\nBut it could be even more coordinated than that. Last week,USA Today reportedthat the creators of a cryptocurrency meme coin say they were responsible for at least some of the \u201cpranks,\u201d which were designed to create buzz around the launch of their neon-green-dildo-themed crypto coin.\nThe creators\u2019 spokesperson denied any intent to harm and said, \u201cWe didn\u2019t do this because like we dislike women\u2019s sports.\u201d\nBut it\u2019s hard not to see it any other way. While the creators pointed to incidents like a pair of Buffalo Bills games in 2016and 2018,where someone also tossed a sex toy onto the field, the crypto promoters miss a few crucial issues.\nMost importantly, there\u2019s a different implication when sex toys are being thrown at women. Not to mention the fact that WNBA games are,by design, supposed to be safe spaces for women, nonbinary people and families.\nBut that hasn\u2019t stopped some on the right, unsurprisingly, from treating the whole thing like one big overreaction.\nDonald Trump Jr. posted an obviously fake but nonetheless surreal image of his father, President Donald Trump,throwing a green dildo from the roof of the White Houseonto a basketball court of mostly Black WNBA players on the ground below.\nFox News regular Clay Travis, founder of the right-wing sports blog OutKick, hasmocked the WNBAfor being upset and postedodds from sites taking betson what will happen next.\nBoth Trump Jr. and Travis have claimed they are out to \u201csave women\u2019s sports\u201d in their zealous attempts to persecute transgender people, and yet they to seem to have no interest in protecting or supporting women athletes who are literally asking for help.\nAnd elite female athletes are far from immune from sexual harassment and abuse.\nIn 2022, former acting Attorney General Sally Yatespublished a report for U.S. Soccerdetailing allegations of abuse by three coaches in the National Women\u2019s Soccer League, as well as a widespread culture of harassment. And the millions paid to Larry Nassar\u2019s victims came after high-profile gymnasts includingSimone Biles and Aly Raismansaid the FBI did not properly follow up on their claims of Nassar\u2019s misconduct.\nHopefully, this incredibly stupid trend has finally played itself out.  With a few weeks left before the playoffs, WNBA players deserve so much better than to be exploited for some childish misogyny. And so do their fans.",
+      "clean_content": "the wnba is heading into the final stretch of a thrilling season the minnesota lynx are chasing history on pace to put up the most wins in a season of any wnba team ever on sunday las vegas aces star and reigning league mvpaja wilson became the first playerin wnba history to score at least 30 points and grab 20 rebounds in one game the expansion golden state valkyries are putting together an againstallodds season that could make them thefirst team in the leagues historyto make the playoffs in their first season but even as the wnba grows its mainstream popularity toxic pranks threaten to overshadow all of this excellent basketball instead of the thrilling oncourt storylines and budding rivalries too many wnba headlines this summer have been about rrated high jinks on multiple occasions in recent weeks someone in the crowd at a game has tossed a brightcolored sex toy toward the court disrupting play or hitting fans indiana fever player sophie cunninghamput out a public pleaon aug 1 for the behavior to stop just a few days later shewas nearly hitby a sex toy during an away game against the los angeles sparks suspects both young men were arrested following additional incidents inphoenixandatlanta innew york the nypd is looking for a man who threw a sex toy that did not make it to the court but struck a 12yearold girlpolice shared a photoof a potential suspect who appeared to be wearing not new york liberty gear but a beavis and butthead tshirt so whats going on here so far its looking like a combination of idiocy cloutchasing and cash espn reportedthat the 23yearold suspect arrested in the incident in atlanta said it was supposed to be a joke and this joke was supposed to go viral so whats going on here so far its looking like a combination of idiocy cloutchasing and cash but it could be even more coordinated than that last weekusa today reportedthat the creators of a cryptocurrency meme coin say they were responsible for at least some of the pranks which were designed to create buzz around the launch of their neongreendildothemed crypto coin the creators spokesperson denied any intent to harm and said we didnt do this because like we dislike womens sports but its hard not to see it any other way while the creators pointed to incidents like a pair of buffalo bills games in 2016and 2018where someone also tossed a sex toy onto the field the crypto promoters miss a few crucial issues most importantly theres a different implication when sex toys are being thrown at women not to mention the fact that wnba games areby design supposed to be safe spaces for women nonbinary people and families but that hasnt stopped some on the right unsurprisingly from treating the whole thing like one big overreaction donald trump jr posted an obviously fake but nonetheless surreal image of his father president donald trumpthrowing a green dildo from the roof of the white houseonto a basketball court of mostly black wnba players on the ground below fox news regular clay travis founder of the rightwing sports blog outkick hasmocked the wnbafor being upset and postedodds from sites taking betson what will happen next both trump jr and travis have claimed they are out to save womens sports in their zealous attempts to persecute transgender people and yet they to seem to have no interest in protecting or supporting women athletes who are literally asking for help and elite female athletes are far from immune from sexual harassment and abuse in 2022 former acting attorney general sally yatespublished a report for us soccerdetailing allegations of abuse by three coaches in the national womens soccer league as well as a widespread culture of harassment and the millions paid to larry nassars victims came after highprofile gymnasts includingsimone biles and aly raismansaid the fbi did not properly follow up on their claims of nassars misconduct hopefully this incredibly stupid trend has finally played itself out with a few weeks left before the playoffs wnba players deserve so much better than to be exploited for some childish misogyny and so do their fans",
+      "entities": {
+        "ORG": [
+          "WNBA",
+          "The Minnesota Lynx",
+          "Wilson",
+          "Golden State Valkyries",
+          "the Los Angeles Sparks",
+          "NYPD",
+          "ESPN",
+          "USA Today",
+          "Buffalo Bills",
+          "Fox News",
+          "OutKick",
+          "the National Women\u2019s Soccer League",
+          "FBI",
+          "Nassar"
+        ],
+        "GPE": [
+          "Las Vegas Aces",
+          "Indiana",
+          "inPhoenixandAtlanta",
+          "InNew York",
+          "New York Liberty",
+          "Atlanta",
+          "U.S."
+        ],
+        "PERSON": [
+          "WNBA",
+          "Sophie Cunninghamput",
+          "Donald Trump Jr.",
+          "Donald Trump",
+          "Clay Travis",
+          "Trump Jr.",
+          "Travis",
+          "Sally Yatespublished",
+          "Larry Nassar\u2019s",
+          "Aly Raismansaid"
+        ]
+      },
+      "category": "Sports",
+      "summary": "During the 2023 WNBA season, multiple incidents occurred where sex toys were thrown onto courts.  Arrests were made in Atlanta, Phoenix, and New York following these disruptions.  A cryptocurrency meme coin's creators claimed responsibility for some incidents, aiming to promote their product.  A 12-year-old girl was struck by a thrown sex toy in New York."
+    },
+    "score": 0.0
+  },
+  {
+    "article": {
+      "source": "Ars Technica",
+      "headline": "Lab owner pleads guilty to faking COVID test results during pandemic",
+      "url": "https://arstechnica.com/science/2024/10/covid-fraudster-pleads-guilty-faces-20-years-for-role-in-83m-testing-scam/",
+      "content": "The co-owner of a Chicago-based lab has pleaded guilty for his role in a COVID testing scam that raked in millions\u2014which he used to buy stocks, cryptocurrency, and several luxury cars while still squirreling away over $6 million in his personal bank account.\nZishan Alvi, 45, of Inverness, Illinois, co-owned LabElite, whichfederal prosecutors saybilled the federal government for COVID-19 tests that were either never performed or were performed with purposefully inadequate components to render them futile. Customers who sought testing from LabElite\u2014sometimes for clearance to travel or have contact with vulnerable people\u2014received either no results or results indicating they were negative for the deadly virus.\nThe scam, which ran from around February 2021 to about February 2022, made over $83 million total in fraudulent payments from the federal government's Health Resources and Services Administration (HRSA), which covered the cost of COVID-19 testing for people without insurance during the height of the pandemic. Local media coverage indicated that people who sought testing at LabElite were discouraged from providing health insurance information.\nIn February 2022,the FBI raided LabElite's Chicago testing siteamid a crackdown on severallarge-scale fraudulent COVID testing schemes. In March 2023,Alvi was indictedby a federal grand jury on 10 counts of wire fraud and one count of theft of government funds. The indictment sought forfeiture of his ill-gotten riches, which were listed in the indictment.\nThe list included five vehicles: a 2021 Mercedes-Benz, a 2021 Land Rover Range Rover HSE, a\u00a0 2021 Lamborghini Urus, A 2021 Bentley, and a 2022 Tesla X. There was also about $810,000 in an E*Trade account, approximately $500,000 in a Fidelity Investments account, and $245,814 in a Coinbase account. Last, there was $6,825,089 in Alvi's personal bank account.\nOn Monday, the Department of Justiceannounced a dealin which Alvi pleaded guilty to one count of wire fraud, taking responsibility for $14 million worth of fraudulent HRSA claims. He now faces up to 20 years in prison and will be sentenced on February 7, 2025.",
+      "clean_content": "the coowner of a chicagobased lab has pleaded guilty for his role in a covid testing scam that raked in millionswhich he used to buy stocks cryptocurrency and several luxury cars while still squirreling away over 6 million in his personal bank account zishan alvi 45 of inverness illinois coowned labelite whichfederal prosecutors saybilled the federal government for covid19 tests that were either never performed or were performed with purposefully inadequate components to render them futile customers who sought testing from labelitesometimes for clearance to travel or have contact with vulnerable peoplereceived either no results or results indicating they were negative for the deadly virus the scam which ran from around february 2021 to about february 2022 made over 83 million total in fraudulent payments from the federal governments health resources and services administration hrsa which covered the cost of covid19 testing for people without insurance during the height of the pandemic local media coverage indicated that people who sought testing at labelite were discouraged from providing health insurance information in february 2022the fbi raided labelites chicago testing siteamid a crackdown on severallargescale fraudulent covid testing schemes in march 2023alvi was indictedby a federal grand jury on 10 counts of wire fraud and one count of theft of government funds the indictment sought forfeiture of his illgotten riches which were listed in the indictment the list included five vehicles a 2021 mercedesbenz a 2021 land rover range rover hse a 2021 lamborghini urus a 2021 bentley and a 2022 tesla x there was also about 810000 in an etrade account approximately 500000 in a fidelity investments account and 245814 in a coinbase account last there was 6825089 in alvis personal bank account on monday the department of justiceannounced a dealin which alvi pleaded guilty to one count of wire fraud taking responsibility for 14 million worth of fraudulent hrsa claims he now faces up to 20 years in prison and will be sentenced on february 7 2025",
+      "entities": {
+        "GPE": [
+          "Chicago",
+          "Inverness",
+          "Illinois"
+        ],
+        "PERSON": [
+          "Zishan Alvi",
+          "COVID"
+        ],
+        "ORG": [
+          "LabElite",
+          "COVID-19",
+          "Health Resources and Services Administration",
+          "FBI",
+          "Mercedes-Benz",
+          "Bentley",
+          "Fidelity Investments",
+          "Coinbase",
+          "Alvi",
+          "the Department of Justiceannounced"
+        ]
+      },
+      "category": "Business",
+      "summary": "Zishan Alvi, 45, of Inverness, Illinois, co-owner of Chicago-based LabElite, pleaded guilty to one count of wire fraud on Monday.  The plea relates to a COVID-19 testing scam from February 2021 to February 2022, defrauding the Health Resources and Services Administration (HRSA) of over $14 million.  Alvi faces up to 20 years in prison, with sentencing on February 7, 2025.  The scam involved billing for non-existent or inadequate tests."
+    },
+    "score": 0.0
+  },
+  {
+    "article": {
+      "source": "The Hindu (Scraped)",
+      "headline": "Arm hires Amazon AI exec to boost plans to build its own chips",
+      "url": "https://www.thehindu.com/sci-tech/technology/arm-hires-amazon-ai-exec-to-boost-plans-to-build-its-own-chips/article69950054.ece",
+      "content": "Arm Holdings has hired Amazon.com artificial intelligence chip directorRami Sinno to bolster its plans to develop its own complete chips, a person familiar with the matter said on Monday.\nSinno was responsible for helping to develop Amazon's homegrown AI chips called Trainium and Inferentia that are designed to help build and run large AI applications.\nUntil now, Arm has not built its own chips. Instead, it designs the core architecture and instruction set for processors that it sells to customers. Chip designers like Apple and Nvidia use Arm technology in their chips.\nIn July, Arm disclosed plans to invest a portion of its profit into building its own chips and other components. CEO Rene Haas discussed the possibility of moving beyond designs and building chiplets (smaller, function-specific versions of a chip that are stitched together) and complete systems.\nThe company, which is majority-owned by the SoftBank Group , collects royalty payments on the chips its customers sell. Arm-based devices power nearly every smartphone in the world and server chips based on its intellectual property have made significant inroads in the data center market long dominated by Advanced Micro Devices and Intel.\nAs part of a broad plan to increase its business, Arm has sought to expand beyond supplying crucial chip intellectual property to building its own complete designs. Reuters first reported on the company's plans outlined in sealed exhibits from a December trial, and its effort to hire executives from rivals in February.\nIn recent years, Arm has sought to bolster its teams focused on building complete chips and systems. The company has hired Nicolas Dube, an executive from HPE with large-scale systems design experience, and Steve Halter, a chip engineer from Intel and Qualcomm, as part of the effort, the person familiar with the matter said.\nSinno's effort at Amazon was part of the company's effort to design chips that would be cheaper and offer superior performance to Nvidia's graphics processors used for AI work.",
+      "clean_content": "arm holdings has hired amazoncom artificial intelligence chip directorrami sinno to bolster its plans to develop its own complete chips a person familiar with the matter said on monday sinno was responsible for helping to develop amazons homegrown ai chips called trainium and inferentia that are designed to help build and run large ai applications until now arm has not built its own chips instead it designs the core architecture and instruction set for processors that it sells to customers chip designers like apple and nvidia use arm technology in their chips in july arm disclosed plans to invest a portion of its profit into building its own chips and other components ceo rene haas discussed the possibility of moving beyond designs and building chiplets smaller functionspecific versions of a chip that are stitched together and complete systems the company which is majorityowned by the softbank group collects royalty payments on the chips its customers sell armbased devices power nearly every smartphone in the world and server chips based on its intellectual property have made significant inroads in the data center market long dominated by advanced micro devices and intel as part of a broad plan to increase its business arm has sought to expand beyond supplying crucial chip intellectual property to building its own complete designs reuters first reported on the companys plans outlined in sealed exhibits from a december trial and its effort to hire executives from rivals in february in recent years arm has sought to bolster its teams focused on building complete chips and systems the company has hired nicolas dube an executive from hpe with largescale systems design experience and steve halter a chip engineer from intel and qualcomm as part of the effort the person familiar with the matter said sinnos effort at amazon was part of the companys effort to design chips that would be cheaper and offer superior performance to nvidias graphics processors used for ai work",
+      "entities": {
+        "ORG": [
+          "Amazon.com",
+          "Amazon",
+          "AI",
+          "Apple",
+          "the SoftBank Group",
+          "Advanced Micro Devices",
+          "Intel",
+          "Reuters",
+          "HPE",
+          "Qualcomm"
+        ],
+        "PERSON": [
+          "Sinno",
+          "Rene Haas",
+          "Nicolas Dube",
+          "Steve Halter"
+        ],
+        "GPE": [
+          "AI",
+          "Nvidia"
+        ]
+      },
+      "category": "Business",
+      "summary": "Arm Holdings hired Rami Sinno, Amazon's AI chip director, on Monday.  Sinno previously worked on Amazon's Trainium and Inferentia AI chips.  Arm, which designs chip architecture, plans to develop its own complete chips,  a shift from its current royalty-based business model.  This hiring is part of Arm's broader expansion into chip manufacturing."
+    },
+    "score": 0.0
+  },
+  {
+    "article": {
+      "source": "The Hindu (Scraped)",
+      "headline": "Japan's SoftBank to invest $2 billion in Intel",
+      "url": "https://www.thehindu.com/sci-tech/technology/japans-softbank-to-invest-2-billion-in-intel/article69950051.ece",
+      "content": "Japan-based tech investor SoftBank Group said Tuesday it will invest $2 billion in Intel,as the U.S. government reportedly considers taking a 10-percent stake in the troubled U.S. chip giant.\nThe move is the latest in SoftBank's succession of investments and business deals in the United States as its charismatic founder Masayoshi Son aggressively courts U.S. President Donald Trump.\n\u201cThis strategic investment reflects our belief that advanced semiconductor manufacturing and supply will further expand in the United States, with Intel playing a critical role,\u201d Mr. Son said in a joint press release with Intel announcing the deal.\nSoftBank will pay $23 per share of Intel common stock.\nSoftBank's move came as the Trump administration discussed taking a stake of about 10 percent in Intel to boost the chipmaker and the American semiconductor sector, according to US media, including Bloomberg News and the Wall Street Journal.\nSince Mr. Trump returned to power, Mr. Son has already announced other investment plans in the United States, including its leading role in the $500-billion Stargate project to build AI infrastructure in the United States along with cloud giant Oracle and ChatGPT-maker OpenAI.\nMr. Son stood beside the U.S. president and fellow investors to announce the Stargate project at the White House in January.\nLip-Bu Tan, Intel chief executive officer, said in the statement the latest deal demonstrates its close ties with SoftBank.\nIt is \"a company that's at the forefront of so many areas of emerging technology and innovation and shares our commitment to advancing US technology and manufacturing leadership,\" he said.\nMr. Trump had pressed Mr. Tan, a Malaysian-born tech veteran,to resign \"immediately,\" after a Republican senator raised national security concerns over his links to firms in China.\nBut during a meeting last week, Mr. Trump praised Mr. Tan, saying in a social media post that \"his success and rise is an amazing story.\"\nMr. Trump also wrote that members of his cabinet would work with Tan and come up with \"suggestions\".\nIntel is one of Silicon Valley's most iconic companies but its fortunes have been eclipsed by Asian powerhouses TSMC and Samsung, which dominate the made-to-order semiconductor business.\nSharon Chen, an analyst from Bloomberg Intelligence, described SoftBank's investment as \"small\" but said it \"suggests the company could invest more in the semiconductor industry as it seeks to be a key participant in the sector's development\".",
+      "clean_content": "japanbased tech investor softbank group said tuesday it will invest 2 billion in intelas the us government reportedly considers taking a 10percent stake in the troubled us chip giant the move is the latest in softbanks succession of investments and business deals in the united states as its charismatic founder masayoshi son aggressively courts us president donald trump this strategic investment reflects our belief that advanced semiconductor manufacturing and supply will further expand in the united states with intel playing a critical role mr son said in a joint press release with intel announcing the deal softbank will pay 23 per share of intel common stock softbanks move came as the trump administration discussed taking a stake of about 10 percent in intel to boost the chipmaker and the american semiconductor sector according to us media including bloomberg news and the wall street journal since mr trump returned to power mr son has already announced other investment plans in the united states including its leading role in the 500billion stargate project to build ai infrastructure in the united states along with cloud giant oracle and chatgptmaker openai mr son stood beside the us president and fellow investors to announce the stargate project at the white house in january lipbu tan intel chief executive officer said in the statement the latest deal demonstrates its close ties with softbank it is a company thats at the forefront of so many areas of emerging technology and innovation and shares our commitment to advancing us technology and manufacturing leadership he said mr trump had pressed mr tan a malaysianborn tech veteranto resign immediately after a republican senator raised national security concerns over his links to firms in china but during a meeting last week mr trump praised mr tan saying in a social media post that his success and rise is an amazing story mr trump also wrote that members of his cabinet would work with tan and come up with suggestions intel is one of silicon valleys most iconic companies but its fortunes have been eclipsed by asian powerhouses tsmc and samsung which dominate the madetoorder semiconductor business sharon chen an analyst from bloomberg intelligence described softbanks investment as small but said it suggests the company could invest more in the semiconductor industry as it seeks to be a key participant in the sectors development",
+      "entities": {
+        "GPE": [
+          "Japan",
+          "U.S.",
+          "the United States",
+          "US",
+          "AI",
+          "China"
+        ],
+        "ORG": [
+          "SoftBank Group",
+          "Intel",
+          "SoftBank",
+          "Trump",
+          "Bloomberg News",
+          "the Wall Street Journal",
+          "Stargate",
+          "TSMC",
+          "Samsung",
+          "Bloomberg Intelligence"
+        ],
+        "PERSON": [
+          "Masayoshi Son",
+          "Donald Trump",
+          "Son",
+          "Trump",
+          "Oracle",
+          "OpenAI",
+          "Lip-Bu Tan",
+          "Tan",
+          "Sharon Chen"
+        ]
+      },
+      "category": "Business",
+      "summary": "SoftBank Group announced a $2 billion investment in Intel on Tuesday. The investment, at $23 per share, comes as the US government reportedly considers a 10% stake in Intel.  This is SoftBank's latest US investment, following its involvement in the StarGate AI infrastructure project.  Intel CEO Pat Gelsinger cited SoftBank's leadership in emerging technologies as a reason for the partnership."
+    },
+    "score": 0.0
+  },
+  {
+    "article": {
+      "source": "The Hindu (Scraped)",
+      "headline": "Trump administration in talks to take 10% stake in Intel: Report",
+      "url": "https://www.thehindu.com/sci-tech/technology/trump-administration-in-talks-to-take-10-stake-in-intel-report/article69950103.ece",
+      "content": "The Trump administration is in talks to take a 10% stake in Intel by converting some or all of the struggling company's Chips Act grants into equity, Bloomberg News reported, citing a White House official and other people familiar with the matter.\nShares of Intel closed about 3.7% lower on Monday, after rallying last week on hopes of U.S. federal support.\nA 10% stake in the American chipmaker would be worth about $10 billion.\nIntel has been slated to receive a combined $10.9 billion in Chips Act grants for commercial and military production, and the figure is roughly enough to pay for the government's holding, according to the Bloomberg report on Monday.\nIntel declined to comment on the report, while the White House did not respond to a request for comment. Reuters could not immediately verify the report.\nMedia reports said last week that the U.S. government may buy a stake in Intel, after a meeting between CEO Lip-Bu Tan and President Donald Trump that was sparked by Trump's demand for the new Intel chief's resignation over his ties to Chinese firms.\nFederal backing could give Intel more breathing room to revive its loss-making foundry business, analysts have said, but it still suffers from a weak product roadmap and challenges in attracting customers to its new factories.\n\"The fact that the U.S. government is stepping in to save a blue-chip American company likely means that Intel's competitive position was much worse than what anybody feared,\" said David Wagner, head of equity and portfolio manager at Intel shareholder Aptus Capital Advisors.\nWagner added that while he was skeptical about the U.S. government investing taxpayer money into U.S. companies, it was better than having Intel become a state-owned entity.\nAptus Capital Advisors holds 80,581 shares of Intel.\nTrump, who said the meeting with Tan was \"very interesting\" one, has taken an unprecedented approach to corporate interventions.\nHe has pushed for multibillion-dollar government tie-ups in semiconductors and rare earths, such as a pay-for-play deal with Nvidia and an arrangement with rare earth producer MP Materials to secure critical minerals.\n\"The U.S. government is taking a China card here and trying to have a little more control over some of the production that these companies are having,\" said Clark Geranen, chief market strategist at CalBay Investments.\nGeranen added that, from a free-market point of view, it is something to be concerned about, but companies are pragmatically cooperating with the new administration, expecting it may be short-lived.\nThe U.S. government has previously taken equity stakes in companies under stress. During the 2007-2009 financial crisis, it took a stake in General Motors \u2014 later exiting the stake in 2013.\nIntel last year secured nearly $8 billion in subsidies, the largest outlay under the act, to build new factories in Ohio and other states as former CEO Pat Gelsinger bet on them to restore the company's manufacturing edge.\nTan, however, pared back such ambitions, slowing construction in Ohio. He plans to build factories based on demand for the services, which analysts have said could put him at odds with Trump's push to shore up American manufacturing.",
+      "clean_content": "the trump administration is in talks to take a 10 stake in intel by converting some or all of the struggling companys chips act grants into equity bloomberg news reported citing a white house official and other people familiar with the matter shares of intel closed about 37 lower on monday after rallying last week on hopes of us federal support a 10 stake in the american chipmaker would be worth about 10 billion intel has been slated to receive a combined 109 billion in chips act grants for commercial and military production and the figure is roughly enough to pay for the governments holding according to the bloomberg report on monday intel declined to comment on the report while the white house did not respond to a request for comment reuters could not immediately verify the report media reports said last week that the us government may buy a stake in intel after a meeting between ceo lipbu tan and president donald trump that was sparked by trumps demand for the new intel chiefs resignation over his ties to chinese firms federal backing could give intel more breathing room to revive its lossmaking foundry business analysts have said but it still suffers from a weak product roadmap and challenges in attracting customers to its new factories the fact that the us government is stepping in to save a bluechip american company likely means that intels competitive position was much worse than what anybody feared said david wagner head of equity and portfolio manager at intel shareholder aptus capital advisors wagner added that while he was skeptical about the us government investing taxpayer money into us companies it was better than having intel become a stateowned entity aptus capital advisors holds 80581 shares of intel trump who said the meeting with tan was very interesting one has taken an unprecedented approach to corporate interventions he has pushed for multibilliondollar government tieups in semiconductors and rare earths such as a payforplay deal with nvidia and an arrangement with rare earth producer mp materials to secure critical minerals the us government is taking a china card here and trying to have a little more control over some of the production that these companies are having said clark geranen chief market strategist at calbay investments geranen added that from a freemarket point of view it is something to be concerned about but companies are pragmatically cooperating with the new administration expecting it may be shortlived the us government has previously taken equity stakes in companies under stress during the 20072009 financial crisis it took a stake in general motors later exiting the stake in 2013 intel last year secured nearly 8 billion in subsidies the largest outlay under the act to build new factories in ohio and other states as former ceo pat gelsinger bet on them to restore the companys manufacturing edge tan however pared back such ambitions slowing construction in ohio he plans to build factories based on demand for the services which analysts have said could put him at odds with trumps push to shore up american manufacturing",
+      "entities": {
+        "PERSON": [
+          "Trump",
+          "Lip-Bu Tan",
+          "Donald Trump",
+          "David Wagner",
+          "Tan",
+          "Clark Geranen",
+          "Geranen",
+          "Pat Gelsinger"
+        ],
+        "ORG": [
+          "Intel",
+          "Bloomberg News",
+          "White House",
+          "Bloomberg",
+          "the White House",
+          "Reuters",
+          "Media",
+          "Trump",
+          "Aptus Capital Advisors",
+          "Wagner",
+          "CalBay Investments",
+          "General Motors"
+        ],
+        "GPE": [
+          "U.S.",
+          "Nvidia",
+          "China",
+          "Ohio"
+        ]
+      },
+      "category": "Business",
+      "summary": "The Trump administration is reportedly considering a 10% equity stake in Intel, valued at approximately $10 billion, in exchange for some or all of Intel's Chips Act grants.  Intel received $10.9 billion in grants.  The proposal followed a meeting between President Trump and Intel CEO Pat Gelsinger.  Intel declined comment; the White House did not respond to requests."
+    },
+    "score": 0.0
+  },
+  {
+    "article": {
+      "source": "The Hindu (Scraped)",
+      "headline": "WazirX users vote again to support restructuring scheme after Singapore court struck down the first proposal",
+      "url": "https://www.thehindu.com/sci-tech/technology/wazirx-users-vote-again-to-support-restructuring-scheme-after-singapore-court-struck-down-the-first-proposal/article69950414.ece",
+      "content": "Users of the crypto exchange WazirX have voted once more in favour of a proposed restructuring scheme, announced the company this week, with supporters now hoping that the Singapore court will allow the proceedings to move forward so that asset recoveries can begin.\n\u201cWith around 95.7% of participating Scheme Creditors voting in favor of the proposed Amended Scheme, the revote has surpassed the strong support received from Scheme Creditors in the last voting round,\u201d noted WazirX in a press release, adding that 149,559 scheme creditors holding $206,892,988.7 in approved claims participated in the revote.\n143,190 scheme creditors representing $195,751,998.5 in approved claims cast a vote in favour of the amended scheme, per the company.\nAccording to the amended scheme, the distribution of recoveries to \u201cScheme Creditors\u201d will be managed through Zanmai India, which is a reporting entity under the Financial Intelligence Unit of India.\nIn July 2024, WazirX lost more than $230 million after a\u00a0multi-signature wallet it was managing with Liminal was hacked. The company responded by blocking access to users\u2019 crypto and advancing its restructuring exercise through the Singapore legal system. The process is ongoing, as crypto investors anxiously wait to learn how much of their assets will be returned to them.\nWazirX previously reported that 93.1% of voting creditors representing 94.6% in value had voted in favour of the first proposed plan. However, the exchange announced in early June that the\u00a0Singapore High Court issued an order declining to approve its proposed restructuring plan.\u00a0After this development, a second voting exercise was arranged.\nWazirX has been criticised for its delay in informing investors about the hack that took place over a year agoand for blocking users\u2019 access to their crypto. Many investors were further distressed to learn about WazirX\u2019s ongoing ownership dispute with Binance, as well as the company\u2019s decision to take its restructuring exercise to Singapore instead of resolving the matter within India.\n\u201cA second round of voting having such strong numbers is a testament to our approach towards the restructuring which has been fair, transparent, and the quickest option for users to recover funds. This has been an incredibly challenging year for all of us, and we are deeply grateful for the unwavering trust and support we\u2019ve received throughout this journey. Should the Singapore Court sanction the Scheme, we are committed to restarting operations within 10 business days of the scheme taking effect,\u201d said WazirX founder Nischal Shetty in a press release.",
+      "clean_content": "users of the crypto exchange wazirx have voted once more in favour of a proposed restructuring scheme announced the company this week with supporters now hoping that the singapore court will allow the proceedings to move forward so that asset recoveries can begin with around 957 of participating scheme creditors voting in favor of the proposed amended scheme the revote has surpassed the strong support received from scheme creditors in the last voting round noted wazirx in a press release adding that 149559 scheme creditors holding 2068929887 in approved claims participated in the revote 143190 scheme creditors representing 1957519985 in approved claims cast a vote in favour of the amended scheme per the company according to the amended scheme the distribution of recoveries to scheme creditors will be managed through zanmai india which is a reporting entity under the financial intelligence unit of india in july 2024 wazirx lost more than 230 million after a multisignature wallet it was managing with liminal was hacked the company responded by blocking access to users crypto and advancing its restructuring exercise through the singapore legal system the process is ongoing as crypto investors anxiously wait to learn how much of their assets will be returned to them wazirx previously reported that 931 of voting creditors representing 946 in value had voted in favour of the first proposed plan however the exchange announced in early june that the singapore high court issued an order declining to approve its proposed restructuring plan after this development a second voting exercise was arranged wazirx has been criticised for its delay in informing investors about the hack that took place over a year agoand for blocking users access to their crypto many investors were further distressed to learn about wazirxs ongoing ownership dispute with binance as well as the companys decision to take its restructuring exercise to singapore instead of resolving the matter within india a second round of voting having such strong numbers is a testament to our approach towards the restructuring which has been fair transparent and the quickest option for users to recover funds this has been an incredibly challenging year for all of us and we are deeply grateful for the unwavering trust and support weve received throughout this journey should the singapore court sanction the scheme we are committed to restarting operations within 10 business days of the scheme taking effect said wazirx founder nischal shetty in a press release",
+      "entities": {
+        "GPE": [
+          "Singapore",
+          "India"
+        ],
+        "ORG": [
+          "Scheme Creditors",
+          "Amended Scheme",
+          "the Financial Intelligence Unit",
+          "Liminal",
+          "Binance",
+          "Singapore Court",
+          "Scheme"
+        ],
+        "PERSON": [
+          "Nischal Shetty"
+        ]
+      },
+      "category": "Business",
+      "summary": "Error: Could not generate summary. 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 15\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 22\n}\n]"
+    },
+    "score": 0.0
+  },
+  {
+    "article": {
+      "source": "The Hindu (Scraped)",
+      "headline": "OpenAI offers ChatGPT Go subscription in India for Rs. 399",
+      "url": "https://www.thehindu.com/sci-tech/technology/openai-offers-chatgpt-go-subscription-in-india-for-rs-399/article69950297.ece",
+      "content": "OpenAI has announced a new subscription plan for Indian users called ChatGPT Go. The Rs. 399 plan will give users extended access to GPT-5, and the ability to generate more images and analyse more documents and files.\nNick Turley, head of ChatGPT, made the announcement on X saying, Go subscribers will get \u201c10x higher message limits, 10x more image generations, 10x more file uploads, and 2x longer memory compared with our free tier.\u201d\nA blog posted by OpenAI noted that these limits could vary based on system conditions to \u201censure a smooth experience for all users.\u201d\nStarting today, users can subscribe to the plan by logging into ChatGPT, clicking on the profile icon and selecting \u201cUpgrade Plan.\u201d They can then select the \u201cGo Plan\u201d and pay via UPI or credit card.\nTurley said that their goal had always been to make ChatGPT \u201cmore affordable\u201d as it has been a \u201ckey ask from users.\u201d\nOpenAI CEO Sam Altman has said on multiple occasions that India is a vital market for them. During his India tour in February earlier this year, he noted that the country was the second-biggest market for ChatGPT with user base having tripled over the last year.\nMeanwhile, Aravind Srinivas-led Perplexity AI has been steadily gaining ground here having partnered with Airtel to offer a free 12-month Perplexity Pro subscription. This gives 360 million Airtel subscribers access to Perplexity\u2019s chatbot.\nOpenAI has said that the Go subscription will be expanded to other regions eventually.",
+      "clean_content": "openai has announced a new subscription plan for indian users called chatgpt go the rs 399 plan will give users extended access to gpt5 and the ability to generate more images and analyse more documents and files nick turley head of chatgpt made the announcement on x saying go subscribers will get 10x higher message limits 10x more image generations 10x more file uploads and 2x longer memory compared with our free tier a blog posted by openai noted that these limits could vary based on system conditions to ensure a smooth experience for all users starting today users can subscribe to the plan by logging into chatgpt clicking on the profile icon and selecting upgrade plan they can then select the go plan and pay via upi or credit card turley said that their goal had always been to make chatgpt more affordable as it has been a key ask from users openai ceo sam altman has said on multiple occasions that india is a vital market for them during his india tour in february earlier this year he noted that the country was the secondbiggest market for chatgpt with user base having tripled over the last year meanwhile aravind srinivasled perplexity ai has been steadily gaining ground here having partnered with airtel to offer a free 12month perplexity pro subscription this gives 360 million airtel subscribers access to perplexitys chatbot openai has said that the go subscription will be expanded to other regions eventually",
+      "entities": {
+        "ORG": [
+          "OpenAI",
+          "Turley",
+          "Airtel",
+          "Perplexity"
+        ],
+        "PERSON": [
+          "Nick Turley",
+          "OpenAI",
+          "Sam Altman",
+          "Aravind Srinivas"
+        ],
+        "GPE": [
+          "India"
+        ]
+      },
+      "category": "Business",
+      "summary": "Error: Could not generate summary. 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 15\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 16\n}\n]"
+    },
+    "score": 0.0
+  }
+]
