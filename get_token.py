@@ -1,11 +1,14 @@
 # get_token.py
 
 from supabase import create_client, Client
+import os
+from dotenv import load_dotenv
 
+load_dotenv()
 # --- CONFIGURATION ---
 # Use the same credentials as your api.py
-SUPABASE_URL = "https://trjasylbjajerzbiwvxi.supabase.co"
-SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InRyamFzeWxiamFqZXJ6Yml3dnhpIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTE4ODcxMDksImV4cCI6MjA2NzQ2MzEwOX0.Qf4xfr5-bGQJZJu43rmv1xRp68nM4i_PB5Lzz9o33HQ"
+SUPABASE_URL = os.environ.get("SUPABASE_URL")
+SUPABASE_KEY = os.environ.get("SUPABASE_KEY")
 
 # The email and password of the test user you created in the Supabase UI
 TEST_USER_EMAIL = "phantomthread.d@gmail.com"

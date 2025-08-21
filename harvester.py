@@ -3,10 +3,13 @@
 import requests
 import json
 from bs4 import BeautifulSoup
+import os
+from dotenv import load_dotenv
 
+load_dotenv()
 # --- CONFIGURATION ---
 # Replace 'YOUR_API_KEY' with the key you got from NewsAPI.org
-API_KEY = 'a880401442fe4836bfb926ed4fe1c331' 
+API_KEY = os.environ.get("NEWS_API_KEY") 
 NEWS_API_URL = 'https://newsapi.org/v2/top-headlines'
 
 # Define the parameters for our news search

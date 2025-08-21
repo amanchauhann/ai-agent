@@ -1,12 +1,15 @@
 # agent3_summarizer.py
+import os
+from dotenv import load_dotenv
 
+load_dotenv()
 import google.generativeai as genai
 
 # --- CONFIGURATION ---
 # IMPORTANT: Store your key securely. Don't hardcode it in production.
 # For this example, we'll place it here.
 # Replace 'YOUR_GEMINI_API_KEY' with the key you got from Google AI Studio.
-GEMINI_API_KEY = 'AIzaSyBonC2x57rmdMCIS19-_FD9MiAvP74mRhM'
+GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
 
 # Configure the generative AI library with your key
 genai.configure(api_key=GEMINI_API_KEY)

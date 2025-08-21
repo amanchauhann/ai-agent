@@ -5,17 +5,20 @@ from fastapi import FastAPI, Depends, HTTPException
 from fastapi.security import HTTPBearer, HTTPAuthorizationCredentials
 from supabase import create_client, Client
 from typing import Optional
-
+import os
 # Import our personalization agent
 from agent4_personalizer import PersonalizationAgent
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # --- INITIALIZATION ---
 
 app = FastAPI()
 
 # Initialize Supabase client
-SUPABASE_URL = "https://trjasylbjajerzbiwvxi.supabase.co"
-SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InRyamFzeWxiamFqZXJ6Yml3dnhpIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTE4ODcxMDksImV4cCI6MjA2NzQ2MzEwOX0.Qf4xfr5-bGQJZJu43rmv1xRp68nM4i_PB5Lzz9o33HQ"
+SUPABASE_URL = os.environ.get("SUPABASE_URL")
+SUPABASE_KEY = os.environ.get("SUPABASE_KEY")
 supabase: Client = create_client(SUPABASE_URL, SUPABASE_KEY)
 
 # Initialize the Personalization Agent
