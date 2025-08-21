@@ -1,44 +1,56 @@
 # agent2_cleaner.py
 
-import spacy
+# import spacy
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 import re
 
 # Load the spaCy English model
-nlp = spacy.load('en_core_web_sm')
+# nlp = spacy.load('en_core_web_sm')
+# Import Flair
+from flair.data import Sentence
+from flair.models import SequenceTagger
+# Load the Flair NER model (it will download on first run)
+tagger = SequenceTagger.load('ner-english-ontonotes-fast')
 
 # Get the list of English stop words
 stop_words = set(stopwords.words('english'))
 
 class CleanerTaggerAgent:
     def __init__(self):
-        print("Cleaner & Tagger Agent is ready.")
+        print("Cleaner & Tagger Agent is ready (using Flair).")
 
     def clean_text(self, text):
         """Removes noise, special characters, and extra whitespace."""
-        # Remove URLs
         text = re.sub(r'http\S+', '', text)
-        # Remove non-alphanumeric characters (except spaces)
         text = re.sub(r'[^a-zA-Z0-9\s]', '', text)
-        # Convert to lowercase
         text = text.lower()
-        # Remove extra whitespace
         text = ' '.join(text.split())
         return text
 
-    def extract_entities(self, text):
-        """Uses spaCy to extract named entities."""
-        doc = nlp(text)
+def extract_entities(self, text):
+        """Uses Flair to extract named entities."""
+        sentence = Sentence(text)
+        tagger.predict(sentence)
+        
         entities = {}
-        for ent in doc.ents:
-            # We only care about a few types of entities
-            if ent.label_ in ['PERSON', 'ORG', 'GPE']: # GPE = Geopolitical Entity (countries, cities)
-                if ent.label_ not in entities:
-                    entities[ent.label_] = []
-                # Add the entity text if it's not already in the list
-                if ent.text not in entities[ent.label_]:
-                    entities[ent.label_].append(ent.text)
+        for entity in sentence.get_spans('ner'):
+            label = entity.tag  # e.g., 'PER', 'ORG', 'LOC'
+            entity_text = entity.text
+            
+            # Normalize labels to match our previous format if desired
+            if label in ['PER', 'PERSON']:
+                label = 'PERSON'
+            elif label in ['ORG', 'CORPORATION']:
+                label = 'ORG'
+            elif label in ['LOC', 'GPE']:
+                label = 'GPE'
+
+            if label in ['PERSON', 'ORG', 'GPE']:
+                if label not in entities:
+                    entities[label] = []
+                if entity_text not in entities[label]:
+                    entities[label].append(entity_text)
         return entities
 
     def categorize_article(self, text):

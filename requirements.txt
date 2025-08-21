@@ -3,7 +3,6 @@
 fastapi
 uvicorn
 supabase
-spacy
 nltk
 requests
 beautifulsoup4
@@ -11,3 +10,6 @@ lxml
 google-generativeai
 python-dotenv
 python-jose[cryptography]
+
+# Switch to Flair for NLP tasks
+flair
