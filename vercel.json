@@ -1,7 +1,20 @@
 {
-    "functions": {
-      "api/cron.py": {
-        "maxDuration": 300
-      }
+  "version": 2,
+  "builds": [
+    {
+      "src": "api/cron.py",
+      "use": "@vercel/python"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/api/cron.py"
+    }
+  ],
+  "functions": {
+    "api/cron.py": {
+      "maxDuration": 300
     }
   }
+}
